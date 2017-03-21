@@ -1,6 +1,5 @@
 #更改 NatvieScript 的 Open Source - Groceries。
-#使用 nativescript-plugin-firebase 串接 Firebase API
-
+#使用 nativescript-plugin-firebase 串接 Firebase API (此為 Anroid版)
 串接Firebase:
 新增好Firebase資料庫後把產生的google-services.json放置下面路徑
 app/App_Resources/Android/google-services.json
