@@ -1,5 +1,5 @@
 #更改 NatvieScript 的 Open Source - Groceries。
-#使用 nativescript-plugin-firebase 串接 Firebase API (此為 Anroid版)
+#使用 nativescript-plugin-firebase, 實作到串接 Firebase API (CRUD, auth)(Anroid)
 
 
 串接Firebase:
